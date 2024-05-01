@@ -1,4 +1,10 @@
-**/vscode
+*
+!**/
+!**/*.*
+!**/Makefile
+**/.vscode
 **/*.o
-**/context
-**/ppos
+**/*.txt
+**/*.py
+**/*.in
+**/*out*
